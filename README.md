@@ -1,58 +1,93 @@
-<h1 align="center">Hi, I'm Habeebullah Sulyman 👋</h1>
-<h3 align="center">Frontend Developer · Freelancer · AI Trainer</h3>
+
+<h1 align="center">Hey, I'm Habeebullah 👋</h1>
+
+<h3 align="center">
+  Frontend Developer | Creative Problem Solver | Lifelong Learner
+</h3>
 
 <p align="center">
-  Building clean, fast and useful web experiences from Abuja, Nigeria 🇳🇬
+  Building useful digital experiences, one project at a time.
+</p>
+
+<p align="center">
+  <a href="https://github.com/IAMHABEEBULLAH">
+    <img src="https://komarev.com/ghpvc/?username=IAMHABEEBULLAH&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+### 👨‍💻 About Me
 
-- 🎨 I'm a **Frontend Developer** who loves turning ideas into responsive, user-friendly websites and web apps.
-- 💼 I **freelance** on web development projects for schools, businesses and startups.
-- 🤖 I do **AI training work at Outlier AI**, helping improve how AI models write and reason.
-- 🏢 Previously worked as a **Frontend Developer at Ngsoft.ng**.
-- 🎓 Studying **English at Kaduna State University (KASU)**, which keeps my writing and communication sharp.
-- 📍 Based in **Abuja, Nigeria**.
+I'm Habeebullah, a developer passionate about technology, creativity, and building solutions that make everyday life easier.
 
-## 🚀 What I'm Working On
+- 🌱 Currently improving my skills in **React, JavaScript, and frontend development**.
+- 💡 Interested in building practical solutions to real-world problems.
+- 🛠️ Enjoy turning ideas into functional websites and applications.
+- 🤝 Open to collaborating on meaningful projects and learning from other developers.
+- ✍️ Outside coding, I'm interested in poetry, research, language, and writing.
+- 🎯 My goal is to grow as a software developer and build products that create real impact.
 
-- 🏫 A **multi-school management portal**: results, continuous assessment, exams and CBT, with each school on its own subdomain.
-- 🖥️ **Computer-Based Testing (CBT)** systems for schools.
-- 🗣️ **Closer Market**: a WhatsApp voice translator idea to help traders and customers who speak different Nigerian languages.
-- 🚚 A **load-matching app** concept connecting shippers and truck owners.
-- 🌐 Client websites and my personal portfolio, built with React.
+---
 
-## 🛠️ Tech Stack
+### 🧰 Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Imamhabeebullah&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devaligns&theme=tokyonight" alt="GitHub streak" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" alt="Technologies I work with" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devaligns&layout=compact&theme=tokyonight" alt="Top languages" />
+---
+
+### 🚀 Featured Projects
+
+#### 🛠️ NearbyPro
+A platform concept connecting customers with local service providers such as electricians, carpenters, and other skilled workers.
+
+- Focus: Local services and community connections.
+- [Explore NearbyPro](https://nearbypro.vercel.app/)
+
+#### 📚 BookTrust Kaduna
+A website project focused on books and reading.
+
+- [Visit the project](https://booktrust-kaduna-website.vercel.app/)
+
+#### 🎮 Tic-Tac-Toe
+A classic game project built to practise frontend development and interactive user interfaces.
+
+- [Play the game](https://tictactoe-ten-kohl.vercel.app/)
+
+#### 🏫 CBT Application
+A computer-based testing application designed for school assessments and student examinations.
+
+- Focus: Educational technology and online testing.
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=IAMHABEEBULLAH&show_icons=true&hide_border=true&theme=transparent" alt="Habeebullah's GitHub statistics" />
 </p>
 
-## 🤝 Let's Work Together
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAMHABEEBULLAH&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" />
+</p>
 
-I'm open to freelance web development projects: school websites, business sites, portals and web apps.
+---
 
-- 📧 **Email:** [Devaligns@gmail.com](mailto:hellohabeebullah@gmail.com)
-- 🐙 **GitHub:** [@Devaligns](https://github.com/IAMHABEEBULLAH)
+### 🤝 Let's Connect
+
+<p>
+  <a href="https://github.com/IAMHABEEBULLAH">GitHub</a> •
+  <a href="mailto:hellohabeebullah@gmail.com">Email</a>
+</p>
 
 ---
 
 <p align="center">
-  ⭐ Thanks for stopping by! If you like something here, feel free to give it a star.
+  <i>"Great things begin as small ideas, built with consistency."</i>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! ⭐
 </p>
