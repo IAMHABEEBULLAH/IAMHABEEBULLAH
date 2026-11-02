@@ -14,7 +14,7 @@
 - 🤖 I do **AI training work at Outlier AI**, helping improve how AI models write and reason.
 - 🏢 Previously worked as a **Frontend Developer at Ngsoft.ng**.
 - 🎓 Studying **English at Kaduna State University (KASU)**, which keeps my writing and communication sharp.
-- 📍 Based in **Kaduna State, Nigeria**.
+- 📍 Based in **Abuja, Nigeria**.
 
 ## 🚀 What I'm Working On
 
@@ -36,7 +36,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devaligns&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Imamhabeebullah&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devaligns&theme=tokyonight" alt="GitHub streak" />
 </p>
 
@@ -48,8 +48,8 @@
 
 I'm open to freelance web development projects: school websites, business sites, portals and web apps.
 
-- 📧 **Email:** [Devaligns@gmail.com](mailto:Devaligns@gmail.com)
-- 🐙 **GitHub:** [@Devaligns](https://github.com/Devaligns)
+- 📧 **Email:** [Devaligns@gmail.com](mailto:hellohabeebullah@gmail.com)
+- 🐙 **GitHub:** [@Devaligns](https://github.com/IAMHABEEBULLAH)
 
 ---
 
