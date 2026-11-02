@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer · Freelancer · AI Trainer</h3>
 
 <p align="center">
-  Building clean, fast and useful web experiences from Kaduna, Nigeria 🇳🇬
+  Building clean, fast and useful web experiences from Abuja, Nigeria 🇳🇬
 </p>
 
 ---
